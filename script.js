@@ -7,7 +7,7 @@ let student ={
 
 let student2 ={
 	name:"Shyam"
-}
+};
 
 function getKeys(obj){
 	return Object.keys(obj);
