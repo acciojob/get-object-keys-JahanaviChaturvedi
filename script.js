@@ -14,3 +14,5 @@ function getKeys(obj){
 }
 console.log(getKeys(student));
 console.log(getKeys(student2));
+
+window.getKeys = getKeys;
